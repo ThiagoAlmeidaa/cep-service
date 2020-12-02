@@ -1,7 +1,7 @@
 package com.thiago.felipe.cepservice;
 
 import com.thiago.felipe.cepservice.api.CepService;
-import com.thiago.felipe.cepservice.impl.Address;
+import com.thiago.felipe.model.Address;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
