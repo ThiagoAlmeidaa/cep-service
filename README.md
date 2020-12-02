@@ -56,4 +56,5 @@ Guide: https://quarkus.io/guides/rest-json
 <p><b>Quarked!</b></p>
 
 Guide: https://quarkus.io/guides/rest-json
-for more project information: https://www.youtube.com/watch?v=pEanb1neZvs
+<p>for more project information: https://www.youtube.com/watch?v=pEanb1neZvs<p>
+
