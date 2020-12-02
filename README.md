@@ -41,6 +41,7 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 
 You can then execute your native executable with: `./target/cep-service-1.0.0-SNAPSHOT-runner`
 
+
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
 
 # RESTEasy JAX-RS
@@ -55,3 +56,4 @@ Guide: https://quarkus.io/guides/rest-json
 <p><b>Quarked!</b></p>
 
 Guide: https://quarkus.io/guides/rest-json
+for more project information: https://www.youtube.com/watch?v=pEanb1neZvs
